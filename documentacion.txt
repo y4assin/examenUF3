@@ -1,0 +1,10 @@
+primer commit lo que he fet es ficar el titol
+title>Problemes dels Tres Cossos i Universos Paral·lels</title>
+treure etiqueta style, y afegir link als estils.css
+<link rel="stylesheet" href="estils.css" />
+he cambiat la etiqueta div a main le he afegir un rol
+he cambiat el div per separar el 2 articles  que hi ha 
+he cambiat el p stronng a h1 titol pricnipal de la pagina li he afegit un id
+he afegit un alt descriptiu a la etiqueta img
+he cambiat la estructura thead de la taula i he cambiat el tbody de la taula perque agafi la forma
+También reemplacé un <div> para separar los dos artículos y cambié el contenido <p><strong> por un <h1> como título principal de la página, asignándole un ID para identificarlo mejor. Para las imágenes, incluí un atributo alt descriptivo en la etiqueta <img>, y finalmente modifiqué la estructura de la tabla usando <thead> y <tbody>, reorganizándola para que tenga un formato más claro.
