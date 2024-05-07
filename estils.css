@@ -37,3 +37,12 @@ table caption {
   text-align: left;
   margin-bottom: 10px;
 }
+
+a {
+  color: #007bff;
+  text-decoration: underline;
+}
+
+a:hover {
+  text-decoration: none;
+}
